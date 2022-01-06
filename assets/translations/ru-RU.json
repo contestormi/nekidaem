@@ -1,0 +1,12 @@
+{
+    "login": "Войти",
+    "enter_your_username": "Введите ваш логин",
+    "enter_your_password": "Введите ваш пароль",
+    "minimum_is_four": "Минимум 4 символа",
+    "minimum_is_eight": "Минимум 8 символов",
+    "on_hold": "На удержании",
+    "in_progress": "В работе",
+    "needs_review": "Нуждается в обзоре",
+    "approved": "Одобрено",
+    "please_fill_textfields": "Пожалуйста, заполните текстовые поля"
+}
